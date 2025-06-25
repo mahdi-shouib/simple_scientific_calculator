@@ -1,6 +1,4 @@
-package com.mycompany.calculator;
-
-public class Calculator {
+public class AppRun {
 
     public static void main(String[] args) {
         ScientificCalculator sc = new ScientificCalculator();
